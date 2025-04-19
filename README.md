@@ -1,4 +1,4 @@
-![Header Image](banner.png)
+![Header Image](./images/banner.png)
 
 ---
 
@@ -99,17 +99,25 @@
   <img width="12" />
   
   <a href="https://discord.com/users/722549554427461732" target="_blank">
-    <img src="leetcode.jpg" width="52" height="40" alt="leetcode logo"  />
+    <img src="./images/leetcode.jpg" width="52" height="40" alt="leetcode logo"  />
   </a>
 
   <img width="12" />
   
    <a href="https://discord.com/users/722549554427461732" target="_blank">
-    <img src="codeforces.jpg" width="52" height="40" alt="codeforces logo"  />
+    <img src="./images/codeforces.jpg" width="52" height="40" alt="codeforces logo"  />
   </a>
 </div>
 
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amer-Abuyaqob/Amer-Abuyaqob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amer-Abuyaqob/Amer-Abuyaqob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amer-Abuyaqob/Amer-Abuyaqob/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=212121&height=150&section=footer&text=Thanks%20for%20visiting!%20🤍&fontSize=30&colorA=121212&colorB=121212&width=1000&fontColor=ECEFF1)
