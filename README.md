@@ -1,4 +1,4 @@
-
+![Header Image](banner.png)
 
 ---
 
@@ -77,14 +77,35 @@
   <a href="mailto:a.abwycwb@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  
+  <img width="12" />
+  
   <a href="https://www.linkedin.com/in/amer-abuyaqob/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
+  <img width="12" />
+  
   <a href="https://www.facebook.com/AmerAbuyaqob/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  
+  <img width="12" />
+  
   <a href="https://discord.com/users/722549554427461732" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  
+  <img width="12" />
+  
+  <a href="https://discord.com/users/722549554427461732" target="_blank">
+    <img src="leetcode.jpg" width="52" height="40" alt="leetcode logo"  />
+  </a>
+
+  <img width="12" />
+  
+   <a href="https://discord.com/users/722549554427461732" target="_blank">
+    <img src="codeforces.jpg" width="52" height="40" alt="codeforces logo"  />
   </a>
 </div>
 
