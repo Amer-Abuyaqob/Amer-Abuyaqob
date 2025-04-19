@@ -98,13 +98,13 @@
   
   <img width="12" />
   
-  <a href="https://discord.com/users/722549554427461732" target="_blank">
+  <a href="https://leetcode.com/u/AmerAbuyaqob/" target="_blank">
     <img src="./images/leetcode.jpg" width="52" height="40" alt="leetcode logo"  />
   </a>
 
   <img width="12" />
   
-   <a href="https://discord.com/users/722549554427461732" target="_blank">
+   <a href="https://codeforces.com/profile/Amer_Abuyaqob" target="_blank">
     <img src="./images/codeforces.jpg" width="52" height="40" alt="codeforces logo"  />
   </a>
 </div>
