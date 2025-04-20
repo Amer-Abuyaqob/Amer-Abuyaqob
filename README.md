@@ -1,4 +1,4 @@
-![Header Image](./images/banner.png)
+<img src="./images/banner.png" alt="Header Image" width="100%"/>
 
 ---
 
@@ -120,4 +120,5 @@
 
 ###
 
-![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=212121&height=150&section=footer&text=Thanks%20for%20visiting!%20🤍&fontSize=30&colorA=121212&colorB=121212&width=1000&fontColor=ECEFF1)
+<img alt="Footer Image" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=150&section=footer&text=Thanks%20for%20visiting!%20🤍&fontSize=30&colorA=121212&colorB=121212&width=1000&fontColor=ECEFF1" width="100%">
+
