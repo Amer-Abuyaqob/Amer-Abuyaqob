@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   </div>
 
   <div align="center">
@@ -40,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
   <img width="12" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/cursor.png" height="40" alt="cursor logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="40" alt="krita logo" />
 </div>
 
 ---
@@ -113,7 +121,6 @@
   </a>
 </div>
 
-
 ---
 
 <picture>
@@ -125,4 +132,3 @@
 ###
 
 <img alt="Footer Image" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=150&section=footer&text=Thanks%20for%20visiting!%20🤍&fontSize=30&colorA=121212&colorB=121212&width=1000&fontColor=ECEFF1" width="100%">
-
