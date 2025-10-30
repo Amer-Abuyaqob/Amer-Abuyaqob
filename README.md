@@ -72,11 +72,13 @@
   <summary align="center"><h2 style="font-family: 'Poppins', sans-serif; color:#3498DB;">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 (𝒄𝒍𝒊𝒄𝒌 𝒕𝒐 𝒆𝒙𝒑𝒂𝒏𝒅)</h2></summary>
 
   <br>
-  Passionate and driven **Computer Systems Engineering student** at **Palestine Technical University – Kadoorie (P.T.U.K)**, currently in my third year. My academic journey has equipped me with a strong foundation in **Programming**, **Object-Oriented Programming (OOP)**, **Data Structures**, and **Databases**, along with hands-on experience in **C++**, **Java**, **SQL**, and **Oracle**. I also have a solid understanding of **Mathematics**, **Digital Logic**, and **Electronics**, which I apply to tackle real-world engineering challenges.
+  Passionate and driven 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 at 𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 – 𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞 (P.T.U.K), currently in my fourth year. My academic journey has equipped me with a strong foundation in 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝗢𝗯𝗷𝗲𝗰𝘁-𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 (𝗢𝗢𝗣), 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀, 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, and 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀, along with hands-on experience in 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙹𝚊𝚟𝚊, 𝙲++, 𝚂𝚀𝙻, 𝙾𝚛𝚊𝚌𝚕𝚎, 𝙲# (Unity), 𝙷𝚃𝙼𝙻, and 𝙲𝚂𝚂. I also have a solid understanding of 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀, 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗟𝗼𝗴𝗶𝗰, 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰𝘀, 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀, and 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗦𝗶𝗴𝗻𝗮𝗹 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴, which I apply to tackle real-world engineering challenges.
   <br>
-  Beyond academics, I have a strong passion for **problem-solving**, **gaming**, and **technology**. I enjoy exploring new programming challenges, turning complex problems into efficient solutions, and immersing myself in the strategic worlds of **video games**. These experiences have honed my **critical thinking**, **teamwork**, and **perseverance**—skills I actively bring to my professional life and apply to practical projects.
   <br>
-  I’m eager to connect with like-minded professionals, collaborate on **innovative projects**, and contribute to the ever-evolving world of **programming and software development**. Let’s connect and explore opportunities to learn, grow, and make an impact together!
+  Beyond academics, I have a strong passion for 𝙥𝙧𝙤𝙗𝙡𝙚𝙢-𝙨𝙤𝙡𝙫𝙞𝙣𝙜, 𝘨𝘢𝘮𝘪𝘯𝘨, and 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺. I enjoy exploring new programming challenges, turning complex problems into efficient solutions, and immersing myself in the strategic worlds of 𝘷𝘪𝘥𝘦𝘰 𝘨𝘢𝘮𝘦𝘴 and 𝘜𝘯𝘪𝘵𝘺 2𝘋 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵. These experiences have honed my 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴, 𝘁𝗲𝗮𝗺𝘄𝗼𝗿𝗸, and 𝗽𝗲𝗿𝘀𝗲𝘃𝗲𝗿𝗮𝗻𝗰𝗲—skills I actively bring to my 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗹𝗶𝗳𝗲, and apply them to 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 and 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
+  <br>
+  <br>
+  I'm eager to connect with like-minded professionals, collaborate on 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀, and contribute to the ever-evolving world of 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴, 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and 𝗴𝗮𝗺𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁. Let's connect and explore opportunities to learn, grow, and make an impact together!
 </details>
 
 ---
