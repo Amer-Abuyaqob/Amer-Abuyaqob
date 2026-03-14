@@ -106,7 +106,7 @@
   
   <img width="12" />
   
-  <a href="https://discord.com/users/722549554427461732" target="_blank">
+  <a href="https://discord.com/users/1465760832607490226" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   
