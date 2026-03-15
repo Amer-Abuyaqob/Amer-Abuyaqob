@@ -1,0 +1,6 @@
+# Cursor IDE – local only (not for profile)
+.cursor/
+.cursorrules
+
+# Personal (e.g. LinkedIn copy – not for profile repo)
+personal/
