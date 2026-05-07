@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
 </div>
 
 <div align="center">
@@ -42,6 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="./images/Drizzle-ORM.svg" height="40" alt="drizzle orm logo"  />
+  <img width="12" />
+  <img src="./images/Prisma-DarkLogo.svg#gh-light-mode-only" height="30" alt="prisma logo" style="position: relative; top: -2px;" />
+  <img src="./images/Prisma-LightLogo.svg#gh-dark-mode-only" height="30" alt="prisma logo" style="position: relative; top: -2px;" />
 </div>
 
 <div align="center">
